@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Taha Buğra\source\repos\OgrenciOtomasyonu\main.cpp(29,24): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Taha Buğra\source\repos\OgrenciOtomasyonu\main.cpp(29,14): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  Ogrenci.cpp
+  Kod Üretiliyor...
+  OgrenciOtomasyonu.vcxproj -> C:\Users\Taha Buğra\source\repos\OgrenciOtomasyonu\x64\Debug\OgrenciOtomasyonu.exe

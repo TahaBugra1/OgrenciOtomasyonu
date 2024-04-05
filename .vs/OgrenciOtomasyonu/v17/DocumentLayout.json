@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Taha Bu\u011Fra\\source\\repos\\OgrenciOtomasyonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCED1A9A-141B-4ED3-A7AC-97FE7BAA9FEE}|OgrenciOtomasyonu.vcxproj|C:\\Users\\Taha Bu\u011Fra\\source\\repos\\OgrenciOtomasyonu\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCED1A9A-141B-4ED3-A7AC-97FE7BAA9FEE}|OgrenciOtomasyonu.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCED1A9A-141B-4ED3-A7AC-97FE7BAA9FEE}|OgrenciOtomasyonu.vcxproj|C:\\Users\\Taha Bu\u011Fra\\source\\repos\\OgrenciOtomasyonu\\Ogrenci.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCED1A9A-141B-4ED3-A7AC-97FE7BAA9FEE}|OgrenciOtomasyonu.vcxproj|solutionrelative:Ogrenci.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCED1A9A-141B-4ED3-A7AC-97FE7BAA9FEE}|OgrenciOtomasyonu.vcxproj|C:\\Users\\Taha Bu\u011Fra\\source\\repos\\OgrenciOtomasyonu\\Ogrenci.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCED1A9A-141B-4ED3-A7AC-97FE7BAA9FEE}|OgrenciOtomasyonu.vcxproj|solutionrelative:Ogrenci.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Taha Bu\u011Fra\\source\\repos\\OgrenciOtomasyonu\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\Taha Bu\u011Fra\\source\\repos\\OgrenciOtomasyonu\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAADMAAAAAAAAAAAAcwEIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-04T12:16:37.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ogrenci.cpp",
+              "DocumentMoniker": "C:\\Users\\Taha Bu\u011Fra\\source\\repos\\OgrenciOtomasyonu\\Ogrenci.cpp",
+              "RelativeDocumentMoniker": "Ogrenci.cpp",
+              "ToolTip": "C:\\Users\\Taha Bu\u011Fra\\source\\repos\\OgrenciOtomasyonu\\Ogrenci.cpp",
+              "RelativeToolTip": "Ogrenci.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAcwCEAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-04T11:35:13.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ogrenci.h",
+              "DocumentMoniker": "C:\\Users\\Taha Bu\u011Fra\\source\\repos\\OgrenciOtomasyonu\\Ogrenci.h",
+              "RelativeDocumentMoniker": "Ogrenci.h",
+              "ToolTip": "C:\\Users\\Taha Bu\u011Fra\\source\\repos\\OgrenciOtomasyonu\\Ogrenci.h",
+              "RelativeToolTip": "Ogrenci.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-04T11:29:35.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
